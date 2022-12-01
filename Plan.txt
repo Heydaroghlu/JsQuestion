@@ -1,0 +1,7 @@
+Plan1
+Time complexity
+
+1.Virtual(https://alkanfatih.com/c-virtual-method-nedir/)
+,Abstract methods(https://bilisim.io/2017/01/21/abstract-nedir-abstract-class-ve-method-kullanimi/)
+2.Delegates-ust seviyyede
+3.Repository a Elcin m den baxmaq
